@@ -1,0 +1,22 @@
+# Core
+numpy
+pandas
+
+# ML
+scikit-learn
+
+# Face Recognition
+dlib-bin
+face-recognition
+
+# Backend / Auth
+supabase
+bcrypt
+
+# Utilities
+segno
+pillow
+
+# UI
+streamlit
+
