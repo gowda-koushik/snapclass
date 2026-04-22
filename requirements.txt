@@ -10,8 +10,8 @@ dlib-bin
 face-recognition
 
 # Backend / Auth
-supabase
-bcrypt
+#supabase
+#bcrypt
 
 # Utilities
 segno
