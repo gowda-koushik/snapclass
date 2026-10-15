@@ -108,7 +108,10 @@ def student_screen():
             st.session_state['login_type'] = None
             st.rerun()
 
-    st.header('Login using FaceID', text_alignment='center')
+    st.markdown(
+    "<h2 style='color: #000000 !important; text-align: center;'>Login using FaceID</h2>",
+    unsafe_allow_html=True
+                )
     st.space()
     st.space()
     
