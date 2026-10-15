@@ -1,22 +1,24 @@
-# Core
+streamlit
+# Utilitites 
 numpy
 pandas
 
-# ML
+# FACE RECOGNITION
 scikit-learn
-
-# Face Recognition
 dlib-bin
-face-recognition
+git+https://github.com/ageitgey/face_recognition_models
+setuptools<70.0.0
 
-# Backend / Auth
-#supabase
-#bcrypt
 
-# Utilities
+supabase
+bcrypt
+
+
+
 segno
 pillow
 
-# UI
-streamlit
 
+
+librosa
+resemblyzer
